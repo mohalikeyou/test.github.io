@@ -6240,6 +6240,32 @@
       </tags>
   </entry>
   <entry>
+    <title>Frameworks</title>
+    <url>/datasets.com/2022/05/12/Frameworks/</url>
+    <content><![CDATA[]]></content>
+      <tags>
+        <tag>RQ4</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Source Files</title>
+    <url>/datasets.com/2022/05/12/Source-Files/</url>
+    <content><![CDATA[<p>See <a href="https://github.com/CodeCloneDL/datasets.com/tree/SourceFiles">SourceFiles</a>.</p>
+]]></content>
+      <tags>
+        <tag>SourceFiles</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Tool---CCDetector</title>
+    <url>/datasets.com/2022/05/12/Tool-CCDetector/</url>
+    <content><![CDATA[<p>See <a href="https://github.com/CodeCloneDL/datasets.com/tree/CCDetector">CCDetector</a>.</p>
+]]></content>
+      <tags>
+        <tag>Tool-CCDetector</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Traditional Projects</title>
     <url>/datasets.com/2022/05/11/Traditional-Projects/</url>
     <content><![CDATA[<h1 id="RQ1"><a href="#RQ1" class="headerlink" title="RQ1"></a>RQ1</h1><h2 id="Part-A-Projects-information"><a href="#Part-A-Projects-information" class="headerlink" title="Part A : Projects information"></a>Part A : Projects information</h2><table>
@@ -7249,6 +7275,34 @@
 ]]></content>
       <tags>
         <tag>RQ1</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Guide</title>
+    <url>/datasets.com/2022/05/12/Guide/</url>
+    <content><![CDATA[<table>
+<thead>
+<tr>
+<th>RQ1</th>
+<th>RQ2</th>
+<th>RQ3</th>
+<th>RQ4</th>
+<th>SourceFiles</th>
+<th>Tool</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><a href="/datasets.com/2022/05/11/Traditional-Projects/" title="Tradition">Tradition</a> , <a href="/datasets.com/2022/05/11/Deep-Learning-Projects/" title="DL">DL</a></td>
+<td><a href="/datasets.com/2022/05/11/Co-change/" title="Co-change">Co-change</a></td>
+<td><a href="/datasets.com/2022/05/11/Co-changes-factors/" title="Factors">Factors</a></td>
+<td><a href="/datasets.com/2022/05/12/Frameworks/" title="Frameworks">Frameworks</a></td>
+<td><a href="/datasets.com/2022/05/12/Source-Files/" title="Source Files">Source Files</a></td>
+<td><a href="/datasets.com/2022/05/12/Tool-CCDetector/" title="CCDetector">CCDetector</a></td>
+</tr>
+</tbody></table>
+]]></content>
+      <tags>
+        <tag>Guide</tag>
       </tags>
   </entry>
 </search>
