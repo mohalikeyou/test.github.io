@@ -10,8 +10,8 @@
 <table>
 <thead>
 <tr>
-<th><a href="http://localhost:4000/datasets.com/Projects/">Projects</a></th>
-<th><a href="http://localhost:4000/datasets.com/Research-Questions/">Research Questions</a></th>
+<th><a href="https://codeclonedl.github.io/datasets.com/Projects/">Projects</a></th>
+<th><a href="https://codeclonedl.github.io/datasets.com/Research-Questions/">Research Questions</a></th>
 <th><a href="https://github.com/CodeCloneDL/datasets.com/tree/data">Source Files</a></th>
 <th><a href="https://github.com/CodeCloneDL/datasets.com/tree/CCDetector">Tool : CCDetector</a></th>
 </tr>
