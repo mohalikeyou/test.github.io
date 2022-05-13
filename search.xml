@@ -5,26 +5,18 @@
     <url>/datasets.com/2022/05/12/Guide/</url>
     <content><![CDATA[<img src="image/3.png" width="100%" height="100%">
 
+
+
 <table>
 <thead>
 <tr>
-<th>RQ1</th>
-<th>RQ2</th>
-<th>RQ3</th>
-<th>RQ4</th>
-<th>SourceFiles</th>
-<th>Tool</th>
+<th><a href="http://localhost:4000/datasets.com/Projects/">Projects</a></th>
+<th><a href="http://localhost:4000/datasets.com/Research-Questions/">Research Questions</a></th>
+<th><a href="https://github.com/CodeCloneDL/datasets.com/tree/data">Source Files</a></th>
+<th><a href="https://github.com/CodeCloneDL/datasets.com/tree/CCDetector">Tool : CCDetector</a></th>
 </tr>
 </thead>
-<tbody><tr>
-<td><a href="/datasets.com/2022/05/11/Traditional-Projects/" title="Tradition">Tradition</a> , <a href="/datasets.com/2022/05/11/Deep-Learning-Projects/" title="DL">DL</a></td>
-<td><a href="/datasets.com/2022/05/11/Co-change/" title="Co-change">Co-change</a></td>
-<td><a href="/datasets.com/2022/05/11/Co-changes-factors/" title="Factors">Factors</a></td>
-<td><a href="/datasets.com/2022/05/12/Frameworks/" title="Frameworks">Frameworks</a></td>
-<td><a href="/datasets.com/2022/05/12/Source-Files/" title="Source Files">Source Files</a></td>
-<td><a href="/datasets.com/2022/05/12/Tool-CCDetector/" title="CCDetector">CCDetector</a></td>
-</tr>
-</tbody></table>
+</table>
 ]]></content>
       <tags>
         <tag>Guide</tag>
@@ -49,11 +41,9 @@
       </tags>
   </entry>
   <entry>
-    <title>Frameworks</title>
-    <url>/datasets.com/2022/05/12/Frameworks/</url>
-    <content><![CDATA[<h1 id="RQ4-In-terms-of-the-impact-of-code-clones-what-is-the-difference-between-projects-using-different-frameworks"><a href="#RQ4-In-terms-of-the-impact-of-code-clones-what-is-the-difference-between-projects-using-different-frameworks" class="headerlink" title="RQ4 : In terms of the impact of code clones,what is the difference between projects using different frameworks?"></a>RQ4 : In terms of the impact of code clones,what is the difference between projects using different frameworks?</h1><span id="more"></span>
-
-<h2 id="Different-Groups"><a href="#Different-Groups" class="headerlink" title="Different Groups"></a>Different Groups</h2><table>
+    <title>Research Questions 4</title>
+    <url>/datasets.com/2022/05/12/RQ4/</url>
+    <content><![CDATA[<h1 id="RQ4-In-terms-of-the-impact-of-code-clones-what-is-the-difference-between-projects-using-different-frameworks"><a href="#RQ4-In-terms-of-the-impact-of-code-clones-what-is-the-difference-between-projects-using-different-frameworks" class="headerlink" title="RQ4 : In terms of the impact of code clones,what is the difference between projects using different frameworks?"></a>RQ4 : In terms of the impact of code clones,what is the difference between projects using different frameworks?</h1><h2 id="Different-Groups"><a href="#Different-Groups" class="headerlink" title="Different Groups"></a>Different Groups</h2><table>
 <thead>
 <tr>
 <th>Group1</th>
@@ -659,11 +649,10 @@
       </tags>
   </entry>
   <entry>
-    <title>Co changes factors</title>
-    <url>/datasets.com/2022/05/11/Co-changes-factors/</url>
-    <content><![CDATA[<h1 id="RQ3-Whether-and-to-what-extent-have-the-code-clones-in-deep-learning-projects-caused-co-changes"><a href="#RQ3-Whether-and-to-what-extent-have-the-code-clones-in-deep-learning-projects-caused-co-changes" class="headerlink" title="RQ3 : Whether and to what extent have the code clones in deep learning projects caused co-changes?"></a>RQ3 : Whether and to what extent have the code clones in deep learning projects caused co-changes?</h1><span id="more"></span>
-<h2 id="Part-A-The-association-between-POC-and-PCC"><a href="#Part-A-The-association-between-POC-and-PCC" class="headerlink" title="Part A : The association between POC and PCC"></a>Part A : The association between POC and PCC</h2><ul>
-<li>POC : Percentage ofthe clones.</li>
+    <title>Research Questions 3</title>
+    <url>/datasets.com/2022/05/11/RQ3/</url>
+    <content><![CDATA[<h1 id="RQ3-Whether-and-to-what-extent-have-the-code-clones-in-deep-learning-projects-caused-co-changes"><a href="#RQ3-Whether-and-to-what-extent-have-the-code-clones-in-deep-learning-projects-caused-co-changes" class="headerlink" title="RQ3 : Whether and to what extent have the code clones in deep learning projects caused co-changes?"></a>RQ3 : Whether and to what extent have the code clones in deep learning projects caused co-changes?</h1><h2 id="The-association-between-POC-and-PCC"><a href="#The-association-between-POC-and-PCC" class="headerlink" title="The association between POC and PCC"></a>The association between POC and PCC</h2><ul>
+<li>POC : Percentage of the clones.</li>
 <li>Size : Size of a project.</li>
 <li>LC : Loc of a clone.</li>
 <li>PCC : Percentage of co-changed clones.</li>
@@ -1022,7 +1011,7 @@
 <td align="center">49.0%</td>
 </tr>
 </tbody></table>
-<h2 id="Part-B-Association-between-Size-and-PCC"><a href="#Part-B-Association-between-Size-and-PCC" class="headerlink" title="Part B : Association between Size and PCC"></a>Part B : Association between Size and PCC</h2><table>
+<h2 id="Association-between-Size-and-PCC"><a href="#Association-between-Size-and-PCC" class="headerlink" title="Association between Size and PCC"></a>Association between Size and PCC</h2><table>
 <thead>
 <tr>
 <th>Subject</th>
@@ -1257,7 +1246,7 @@
 </tr>
 </tbody></table>
 <p>We calculated the Pearson correlation coefficient between the size and percentage of co-changed clones of each project,which get a value of 0.05.</p>
-<h2 id="Part-C-Association-between-LC-and-co-changed-clones"><a href="#Part-C-Association-between-LC-and-co-changed-clones" class="headerlink" title="Part C : Association between LC and co-changed clones."></a>Part C : Association between LC and co-changed clones.</h2><h3 id="1-Association-between-LC-and-PCTC"><a href="#1-Association-between-LC-and-PCTC" class="headerlink" title="1. Association between LC and PCTC."></a>1. Association between LC and PCTC.</h3><h4 id="Overview-1"><a href="#Overview-1" class="headerlink" title="Overview"></a>Overview</h4><table>
+<h2 id="Association-between-LC-and-co-changed-clones"><a href="#Association-between-LC-and-co-changed-clones" class="headerlink" title="Association between LC and co-changed clones."></a>Association between LC and co-changed clones.</h2><h3 id="Association-between-LC-and-PCTC"><a href="#Association-between-LC-and-PCTC" class="headerlink" title="Association between LC and PCTC."></a>Association between LC and PCTC.</h3><h4 id="Overview-1"><a href="#Overview-1" class="headerlink" title="Overview"></a>Overview</h4><table>
 <thead>
 <tr>
 <th></th>
@@ -1328,7 +1317,10 @@
 <td align="center">758</td>
 </tr>
 </tbody></table>
-<h4 id="Distribution-of-the-number-of-each-co-modified-clone-type-in-every-project"><a href="#Distribution-of-the-number-of-each-co-modified-clone-type-in-every-project" class="headerlink" title="Distribution  of the number of each co-modified clone type in every project"></a>Distribution  of the number of each co-modified clone type in every project</h4><table>
+<h4 id="Distribution-of-the-number-of-each-co-modified-clone-type-in-every-project"><a href="#Distribution-of-the-number-of-each-co-modified-clone-type-in-every-project" class="headerlink" title="Distribution  of the number of each co-modified clone type in every project"></a>Distribution  of the number of each co-modified clone type in every project</h4><div style="overflow-x:auto;">
+<table>
+
+<table>
 <thead>
 <tr>
 <th align="center"></th>
@@ -2272,11 +2264,36 @@
 <td align="center">1512</td>
 <td align="center">1753</td>
 <td align="center">582</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
 <td align="center">538</td>
 <td align="center">253</td>
 <td align="center">598</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
 </tr>
 </tbody></table>
+</table>
+</div>
+
+
 <h4 id="Distribution-of-the-number-of-each-clone-type"><a href="#Distribution-of-the-number-of-each-clone-type" class="headerlink" title="Distribution of the number of each clone type."></a>Distribution of the number of each clone type.</h4><table>
 <thead>
 <tr>
@@ -3275,7 +3292,7 @@
 <td align="center">973</td>
 </tr>
 </tbody></table>
-<h3 id="2-Association-between-LC-and-NormPCTC"><a href="#2-Association-between-LC-and-NormPCTC" class="headerlink" title="2. Association between LC and NormPCTC."></a>2. Association between LC and NormPCTC.</h3><h4 id="Overview-2"><a href="#Overview-2" class="headerlink" title="Overview"></a>Overview</h4><table>
+<h3 id="Association-between-LC-and-NormPCTC"><a href="#Association-between-LC-and-NormPCTC" class="headerlink" title="Association between LC and NormPCTC."></a>Association between LC and NormPCTC.</h3><h4 id="Overview-2"><a href="#Overview-2" class="headerlink" title="Overview"></a>Overview</h4><table>
 <thead>
 <tr>
 <th></th>
@@ -5299,10 +5316,9 @@
       </tags>
   </entry>
   <entry>
-    <title>Co-change</title>
-    <url>/datasets.com/2022/05/11/Co-change/</url>
-    <content><![CDATA[<h1 id="RQ2"><a href="#RQ2" class="headerlink" title="RQ2"></a>RQ2</h1><span id="more"></span>
-<h2 id="Part-A-Co-changed-clones-of-deep-learning-projects"><a href="#Part-A-Co-changed-clones-of-deep-learning-projects" class="headerlink" title="Part A : Co-changed clones of deep learning projects"></a>Part A : Co-changed clones of deep learning projects</h2><table>
+    <title>Research Questions 2</title>
+    <url>/datasets.com/2022/05/11/RQ2/</url>
+    <content><![CDATA[<h1 id="RO2-Whether-and-to-what-extent-have-the-code-clones-in-deep-learning-projects-caused-co-changes"><a href="#RO2-Whether-and-to-what-extent-have-the-code-clones-in-deep-learning-projects-caused-co-changes" class="headerlink" title="RO2:Whether and to what extent have the code clones in deep learning projects caused co-changes?"></a>RO2:Whether and to what extent have the code clones in deep learning projects caused co-changes?</h1><h2 id="Co-changed-clones-of-deep-learning-projects"><a href="#Co-changed-clones-of-deep-learning-projects" class="headerlink" title="Co-changed clones of deep learning projects"></a>Co-changed clones of deep learning projects</h2><table>
 <thead>
 <tr>
 <th>Subject</th>
@@ -5888,290 +5904,9 @@
       </tags>
   </entry>
   <entry>
-    <title>Deep Learning Projects</title>
-    <url>/datasets.com/2022/05/11/Deep-Learning-Projects/</url>
-    <content><![CDATA[<h1 id="RQ1-Whether-and-to-what-extent-do-code-clones-happen-in-deep-learning-projects"><a href="#RQ1-Whether-and-to-what-extent-do-code-clones-happen-in-deep-learning-projects" class="headerlink" title="RQ1 : Whether and to what extent do code clones happen in deep learning projects?"></a>RQ1 : Whether and to what extent do code clones happen in deep learning projects?</h1><span id="more"></span>
-<h2 id="Part-A-Projects-Information"><a href="#Part-A-Projects-Information" class="headerlink" title="Part A : Projects Information"></a>Part A : Projects Information</h2><table>
-<thead>
-<tr>
-<th>Subject</th>
-<th>Github</th>
-<th>Description</th>
-<th>BaseVersion</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>tianshou</td>
-<td><a href="https://github.com/thu-ml/tianshou/tree/v0.4.7">https://github.com/thu-ml/tianshou/tree/v0.4.7</a></td>
-<td>An elegant PyTorch deep reinforcement learning library.</td>
-<td>0.4.7</td>
-</tr>
-<tr>
-<td>ignite</td>
-<td><a href="https://github.com/pytorch/ignite/tree/v0.4.8">https://github.com/pytorch/ignite/tree/v0.4.8</a></td>
-<td>High-level library to help with training and evaluating neural networks in PyTorch flexibly and transparently.</td>
-<td>0.4.8</td>
-</tr>
-<tr>
-<td>tflearn</td>
-<td><a href="https://github.com/tflearn/tflearn/tree/0.5.0">https://github.com/tflearn/tflearn/tree/0.5.0</a></td>
-<td>Deep learning library featuring a higher-level API for TensorFlow.</td>
-<td>0.5.0</td>
-</tr>
-<tr>
-<td>TensorLayer</td>
-<td><a href="https://github.com/tensorlayer/TensorLayer/tree/2.2.4">https://github.com/tensorlayer/TensorLayer/tree/2.2.4</a></td>
-<td>Deep Learning and Reinforcement Learning Library for Scientists and Engineers</td>
-<td>2.2.4</td>
-</tr>
-<tr>
-<td>imgaug</td>
-<td><a href="https://github.com/aleju/imgaug/tree/0.4.0">https://github.com/aleju/imgaug/tree/0.4.0</a></td>
-<td>Image augmentation for machine learning experiments.</td>
-<td>0.4.0</td>
-</tr>
-<tr>
-<td>deepchem</td>
-<td><a href="https://github.com/deepchem/deepchem/tree/2.6.1">https://github.com/deepchem/deepchem/tree/2.6.1</a></td>
-<td>Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology</td>
-<td>2.6.1</td>
-</tr>
-<tr>
-<td>pyod</td>
-<td><a href="https://github.com/yzhao062/pyod/tree/v0.9.8">https://github.com/yzhao062/pyod/tree/v0.9.8</a></td>
-<td>A Comprehensive and Scalable Python Library for Outlier Detection (Anomaly Detection)</td>
-<td>0.9.8</td>
-</tr>
-<tr>
-<td>nni</td>
-<td><a href="https://github.com/microsoft/nni/tree/v2.6.1">https://github.com/microsoft/nni/tree/v2.6.1</a></td>
-<td>An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.</td>
-<td>2.6.1</td>
-</tr>
-<tr>
-<td>texar</td>
-<td><a href="https://github.com/asyml/texar/tree/v0.2.4">https://github.com/asyml/texar/tree/v0.2.4</a></td>
-<td>Toolkit for Machine Learning, Natural Language Processing, and Text Generation, in TensorFlow. This is part of the CASL project</td>
-<td>0.2.4</td>
-</tr>
-<tr>
-<td>horovod</td>
-<td><a href="https://github.com/horovod/horovod/tree/v0.24.2">https://github.com/horovod/horovod/tree/v0.24.2</a></td>
-<td>Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.</td>
-<td>0.24.2</td>
-</tr>
-<tr>
-<td>sonnet</td>
-<td><a href="https://github.com/deepmind/sonnet/tree/v2.0.0">https://github.com/deepmind/sonnet/tree/v2.0.0</a></td>
-<td>TensorFlow-based neural network library</td>
-<td>2.0.0</td>
-</tr>
-<tr>
-<td>transformers</td>
-<td><a href="https://github.com/huggingface/transformers/tree/v4.17.0">https://github.com/huggingface/transformers/tree/v4.17.0</a></td>
-<td>Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.</td>
-<td>4.17.0</td>
-</tr>
-<tr>
-<td>keras</td>
-<td><a href="https://github.com/keras-team/keras/tree/v2.8.0">https://github.com/keras-team/keras/tree/v2.8.0</a></td>
-<td>Deep Learning for humans</td>
-<td>2.8.0</td>
-</tr>
-<tr>
-<td>DIG</td>
-<td><a href="https://github.com/divelab/DIG/tree/0.1.2">https://github.com/divelab/DIG/tree/0.1.2</a></td>
-<td>A library for graph deep learning research</td>
-<td>0.1.2</td>
-</tr>
-<tr>
-<td>addons</td>
-<td><a href="https://github.com/tensorflow/addons/tree/v0.16.1">https://github.com/tensorflow/addons/tree/v0.16.1</a></td>
-<td>Useful extra functionality for TensorFlow 2.x maintained by SIG-addons</td>
-<td>0.16.1</td>
-</tr>
-<tr>
-<td>tfx</td>
-<td><a href="https://github.com/tensorflow/tfx/tree/v1.7.0">https://github.com/tensorflow/tfx/tree/v1.7.0</a></td>
-<td>TFX is an end-to-end platform for deploying production ML pipelines</td>
-<td>1.7.0</td>
-</tr>
-<tr>
-<td>chainer</td>
-<td><a href="https://github.com/chainer/chainer/tree/v7.8.1">https://github.com/chainer/chainer/tree/v7.8.1</a></td>
-<td>A flexible framework of neural networks for deep learning</td>
-<td>7.8.1</td>
-</tr>
-<tr>
-<td>pytorchvideo</td>
-<td><a href="https://github.com/facebookresearch/pytorchvideo/tree/0.1.3">https://github.com/facebookresearch/pytorchvideo/tree/0.1.3</a></td>
-<td>A deep learning library for video understanding research.</td>
-<td>0.1.3</td>
-</tr>
-<tr>
-<td>autokeras</td>
-<td><a href="https://github.com/keras-team/autokeras/tree/1.0.18">https://github.com/keras-team/autokeras/tree/1.0.18</a></td>
-<td>AutoML library for deep learning</td>
-<td>1.0.18</td>
-</tr>
-<tr>
-<td>torch points3d</td>
-<td><a href="https://github.com/torch-points3d/torch-points3d/tree/1.3.0">https://github.com/torch-points3d/torch-points3d/tree/1.3.0</a></td>
-<td>Pytorch framework for doing deep learning on point clouds.</td>
-<td>1.3.0</td>
-</tr>
-<tr>
-<td>stellargraph</td>
-<td><a href="https://github.com/stellargraph/stellargraph/tree/v1.2.1">https://github.com/stellargraph/stellargraph/tree/v1.2.1</a></td>
-<td>StellarGraph - Machine Learning on Graphs</td>
-<td>1.2.1</td>
-</tr>
-<tr>
-<td>ludwig</td>
-<td><a href="https://github.com/ludwig-ai/ludwig/tree/v0.5rc2">https://github.com/ludwig-ai/ludwig/tree/v0.5rc2</a></td>
-<td>Data-centric declarative deep learning framework</td>
-<td>0.5rc2</td>
-</tr>
-<tr>
-<td>catalyst</td>
-<td><a href="https://github.com/catalyst-team/catalyst/tree/v22.02.1">https://github.com/catalyst-team/catalyst/tree/v22.02.1</a></td>
-<td>Accelerated deep learning R&amp;D</td>
-<td>22.02.1</td>
-</tr>
-<tr>
-<td>tensor2tensor</td>
-<td><a href="https://github.com/tensorflow/tensor2tensor/tree/v1.15.7">https://github.com/tensorflow/tensor2tensor/tree/v1.15.7</a></td>
-<td>Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.</td>
-<td>1.15.7</td>
-</tr>
-<tr>
-<td>allennlp</td>
-<td><a href="https://github.com/allenai/allennlp/tree/v2.9.0">https://github.com/allenai/allennlp/tree/v2.9.0</a></td>
-<td>An open-source NLP research library, built on PyTorch.</td>
-<td>2.9.0</td>
-</tr>
-<tr>
-<td>luminoth</td>
-<td><a href="https://github.com/tryolabs/luminoth/tree/v0.2.3">https://github.com/tryolabs/luminoth/tree/v0.2.3</a></td>
-<td>Deep Learning toolkit for Computer Vision.</td>
-<td>0.2.3</td>
-</tr>
-<tr>
-<td>coach</td>
-<td><a href="https://github.com/IntelLabs/coach/tree/v1.0.0">https://github.com/IntelLabs/coach/tree/v1.0.0</a></td>
-<td>Reinforcement Learning Coach by Intel AI Lab enables easy experimentation with state of the art Reinforcement Learning algorithms</td>
-<td>1.0.0</td>
-</tr>
-<tr>
-<td>clearml</td>
-<td><a href="https://github.com/allegroai/clearml/tree/v1.3.2rc2">https://github.com/allegroai/clearml/tree/v1.3.2rc2</a></td>
-<td>ClearML - Auto-Magical CI&#x2F;CD to streamline your ML workflow. Experiment Manager, MLOps and Data-Management</td>
-<td>1.3.2rc2</td>
-</tr>
-<tr>
-<td>TTS</td>
-<td><a href="https://github.com/coqui-ai/TTS/tree/v0.6.1">https://github.com/coqui-ai/TTS/tree/v0.6.1</a></td>
-<td>a deep learning toolkit for Text-to-Speech, battle-tested in research and production</td>
-<td>0.6.1</td>
-</tr>
-<tr>
-<td>DeepLabCut</td>
-<td><a href="https://github.com/DeepLabCut/DeepLabCut/tree/v2.2.0.6">https://github.com/DeepLabCut/DeepLabCut/tree/v2.2.0.6</a></td>
-<td>Official implementation of DeepLabCut: Markerless pose estimation of user-defined features with deep learning for all animals incl. humans</td>
-<td>2.2.0.6</td>
-</tr>
-<tr>
-<td>DeepPavlov</td>
-<td><a href="https://github.com/deepmipt/DeepPavlov/tree/0.17.2">https://github.com/deepmipt/DeepPavlov/tree/0.17.2</a></td>
-<td>An open source library for deep learning end-to-end dialog systems and chatbots.</td>
-<td>0.17.2</td>
-</tr>
-<tr>
-<td>PySyft</td>
-<td><a href="https://github.com/OpenMined/PySyft/tree/v0.6.0">https://github.com/OpenMined/PySyft/tree/v0.6.0</a></td>
-<td>A library for answering questions using data you cannot see</td>
-<td>0.6.0</td>
-</tr>
-<tr>
-<td>raster vision</td>
-<td><a href="https://github.com/azavea/raster-vision/tree/v0.13.1">https://github.com/azavea/raster-vision/tree/v0.13.1</a></td>
-<td>An open source framework for deep learning on satellite and aerial imagery.</td>
-<td>0.13.1</td>
-</tr>
-<tr>
-<td>MONAI</td>
-<td><a href="https://github.com/Project-MONAI/MONAI/tree/0.8.1">https://github.com/Project-MONAI/MONAI/tree/0.8.1</a></td>
-<td>AI Toolkit for Healthcare Imaging</td>
-<td>0.8.1</td>
-</tr>
-<tr>
-<td>spaCy</td>
-<td><a href="https://github.com/explosion/spaCy/tree/v3.2.3">https://github.com/explosion/spaCy/tree/v3.2.3</a></td>
-<td>Industrial-strength Natural Language Processing (NLP) in Python</td>
-<td>3.2.3</td>
-</tr>
-<tr>
-<td>ray</td>
-<td><a href="https://github.com/ray-project/ray/tree/ray-1.11.0">https://github.com/ray-project/ray/tree/ray-1.11.0</a></td>
-<td>An open source framework that provides a simple, universal API for building distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.</td>
-<td>1.11.0</td>
-</tr>
-<tr>
-<td>faceswap</td>
-<td><a href="https://github.com/deepfakes/faceswap/tree/v2.0.0">https://github.com/deepfakes/faceswap/tree/v2.0.0</a></td>
-<td>Deepfakes Software For All</td>
-<td>2.0.0</td>
-</tr>
-<tr>
-<td>Hub</td>
-<td><a href="https://github.com/activeloopai/Hub/tree/v2.3.2">https://github.com/activeloopai/Hub/tree/v2.3.2</a></td>
-<td>Dataset format for AI. Build, manage, query &amp; visualize datasets for deep learning. Stream data real-time to PyTorch&#x2F;TensorFlow &amp; version-control it.</td>
-<td>2.3.2</td>
-</tr>
-<tr>
-<td>deepvariant</td>
-<td><a href="https://github.com/google/deepvariant/tree/v1.3.0">https://github.com/google/deepvariant/tree/v1.3.0</a></td>
-<td>DeepVariant is an analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA sequencing data.</td>
-<td>1.3.0</td>
-</tr>
-<tr>
-<td>pytorch lightning</td>
-<td><a href="https://github.com/PyTorchLightning/pytorch-lightning/tree/1.5.10">https://github.com/PyTorchLightning/pytorch-lightning/tree/1.5.10</a></td>
-<td>The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.</td>
-<td>1.5.10</td>
-</tr>
-<tr>
-<td>DeepFaceLab</td>
-<td><a href="https://github.com/iperov/DeepFaceLab/tree/pretrained">https://github.com/iperov/DeepFaceLab/tree/pretrained</a></td>
-<td>DeepFaceLab is the leading software for creating deepfakes.</td>
-<td>pretrained</td>
-</tr>
-<tr>
-<td>GPflow</td>
-<td><a href="https://github.com/GPflow/GPflow/tree/v2.4.0">https://github.com/GPflow/GPflow/tree/v2.4.0</a></td>
-<td>Gaussian processes in TensorFlow</td>
-<td>2.4.0</td>
-</tr>
-<tr>
-<td>OpenNMT py</td>
-<td><a href="https://github.com/OpenNMT/OpenNMT-py/tree/2.2.0">https://github.com/OpenNMT/OpenNMT-py/tree/2.2.0</a></td>
-<td>Open Source Neural Machine Translation in PyTorch</td>
-<td>2.2.0</td>
-</tr>
-<tr>
-<td>torchio</td>
-<td><a href="https://github.com/fepegar/torchio/tree/v0.18.75">https://github.com/fepegar/torchio/tree/v0.18.75</a></td>
-<td>TorchIO: medical imaging for deep learning.</td>
-<td>0.18.75</td>
-</tr>
-<tr>
-<td>tensorpack</td>
-<td><a href="https://github.com/tensorpack/tensorpack/tree/v0.11">https://github.com/tensorpack/tensorpack/tree/v0.11</a></td>
-<td>A Neural Net Training Interface on TensorFlow, with focus on speed + flexibility</td>
-<td>0.11</td>
-</tr>
-</tbody></table>
-<h2 id="Part-B-Rusults-of-clone-analysis-for-deep-learning-projects"><a href="#Part-B-Rusults-of-clone-analysis-for-deep-learning-projects" class="headerlink" title="Part B : Rusults of clone analysis for deep learning projects"></a>Part B : Rusults of clone analysis for deep learning projects</h2><table>
+    <title>Research Questions 1</title>
+    <url>/datasets.com/2022/05/11/RQ1/</url>
+    <content><![CDATA[<h1 id="RQ1-Whether-and-to-what-extent-do-code-clones-happen-in-deep-learning-projects"><a href="#RQ1-Whether-and-to-what-extent-do-code-clones-happen-in-deep-learning-projects" class="headerlink" title="RQ1 : Whether and to what extent do code clones happen in deep learning projects?"></a>RQ1 : Whether and to what extent do code clones happen in deep learning projects?</h1><h2 id="Rusults-of-clone-analysis-for-deep-learning-projects"><a href="#Rusults-of-clone-analysis-for-deep-learning-projects" class="headerlink" title="Rusults of clone analysis for deep learning projects"></a>Rusults of clone analysis for deep learning projects</h2><table>
 <thead>
 <tr>
 <th>Subject</th>
@@ -6355,7 +6090,7 @@
 <td>2,337L</td>
 </tr>
 <tr>
-<td>transformers</td>
+<td>transforme-<br>rs</td>
 <td>59.9K</td>
 <td>9,364</td>
 <td>449,759</td>
@@ -6895,297 +6630,7 @@
 <td>298,364L</td>
 </tr>
 </tbody></table>
-]]></content>
-      <tags>
-        <tag>RQ1</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Traditional Projects</title>
-    <url>/datasets.com/2022/05/11/Traditional-Projects/</url>
-    <content><![CDATA[<h1 id="RQ1-Whether-and-to-what-extent-do-code-clones-happen-in-deep-learning-projects"><a href="#RQ1-Whether-and-to-what-extent-do-code-clones-happen-in-deep-learning-projects" class="headerlink" title="RQ1 : Whether and to what extent do code clones happen in deep learning projects?"></a>RQ1 : Whether and to what extent do code clones happen in deep learning projects?</h1><span id="more"></span>
-
-<h2 id="Part-A-Projects-information"><a href="#Part-A-Projects-information" class="headerlink" title="Part A : Projects information"></a>Part A : Projects information</h2><table>
-<thead>
-<tr>
-<th>Subject</th>
-<th>Github</th>
-<th>Description</th>
-<th>BaseVersion</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>boto</td>
-<td><a href="https://github.com/boto/boto/tree/v2.13.2">https://github.com/boto/boto/tree/v2.13.2</a></td>
-<td>Boto is a Python package that provides interfaces to Amazon Web Services</td>
-<td>2.13.2</td>
-</tr>
-<tr>
-<td>InstaPy</td>
-<td><a href="https://github.com/InstaPy/InstaPy/tree/0.6.16">https://github.com/InstaPy/InstaPy/tree/0.6.16</a></td>
-<td>Instagram Bot - Tool for automated Instagram interactions</td>
-<td>0.6.16</td>
-</tr>
-<tr>
-<td>aws-cli</td>
-<td><a href="https://github.com/aws/aws-cli/tree/2.4.27">https://github.com/aws/aws-cli/tree/2.4.27</a></td>
-<td>Universal Command Line Interface for Amazon Web Services</td>
-<td>2.4.27</td>
-</tr>
-<tr>
-<td>wagtail</td>
-<td><a href="https://github.com/wagtail/wagtail/tree/v2.16.1">https://github.com/wagtail/wagtail/tree/v2.16.1</a></td>
-<td>A Django content management system focused on flexibility and user experience</td>
-<td>2.16.1</td>
-</tr>
-<tr>
-<td>XX-Net</td>
-<td><a href="https://github.com/XX-net/XX-Net/tree/4.7.9">https://github.com/XX-net/XX-Net/tree/4.7.9</a></td>
-<td>A proxy tool to bypass GFW.</td>
-<td>4.7.9</td>
-</tr>
-<tr>
-<td>pyspider</td>
-<td><a href="https://github.com/binux/pyspider/tree/v0.3.10">https://github.com/binux/pyspider/tree/v0.3.10</a></td>
-<td>A Powerful Spider(Web Crawler) System in Python.</td>
-<td>0.3.10</td>
-</tr>
-<tr>
-<td>eve</td>
-<td><a href="https://github.com/pyeve/eve/tree/v1.1.5">https://github.com/pyeve/eve/tree/v1.1.5</a></td>
-<td>REST API framework designed for human beings</td>
-<td>1.1.5</td>
-</tr>
-<tr>
-<td>yapf</td>
-<td><a href="https://github.com/google/yapf/tree/v0.32.0">https://github.com/google/yapf/tree/v0.32.0</a></td>
-<td>A formatter for Python files</td>
-<td>0.32.0</td>
-</tr>
-<tr>
-<td>django-rest-framework</td>
-<td><a href="https://github.com/encode/django-rest-framework/tree/3.13.1">https://github.com/encode/django-rest-framework/tree/3.13.1</a></td>
-<td>Web APIs for Django</td>
-<td>3.13.1</td>
-</tr>
-<tr>
-<td>sentry</td>
-<td><a href="https://github.com/getsentry/sentry/tree/22.2.0">https://github.com/getsentry/sentry/tree/22.2.0</a></td>
-<td>Sentry is cross-platform application monitoring, with a focus on error reporting.</td>
-<td>22.2.0</td>
-</tr>
-<tr>
-<td>sqlmap</td>
-<td><a href="https://github.com/sqlmapproject/sqlmap/tree/1.6.3">https://github.com/sqlmapproject/sqlmap/tree/1.6.3</a></td>
-<td>Automatic SQL injection and database takeover tool</td>
-<td>1.6.3</td>
-</tr>
-<tr>
-<td>luigi</td>
-<td><a href="https://github.com/spotify/luigi/tree/3.0.3">https://github.com/spotify/luigi/tree/3.0.3</a></td>
-<td>Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.</td>
-<td>3.0.3</td>
-</tr>
-<tr>
-<td>django-tastypie</td>
-<td><a href="https://github.com/django-tastypie/django-tastypie/tree/v0.14.4">https://github.com/django-tastypie/django-tastypie/tree/v0.14.4</a></td>
-<td>Creating delicious APIs for Django apps since 2010.</td>
-<td>0.14.4</td>
-</tr>
-<tr>
-<td>ansible</td>
-<td><a href="https://github.com/ansible/ansible/tree/v2.12.4rc1">https://github.com/ansible/ansible/tree/v2.12.4rc1</a></td>
-<td>Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems.</td>
-<td>2.12.4rc1</td>
-</tr>
-<tr>
-<td>zipline</td>
-<td><a href="https://github.com/quantopian/zipline/tree/v1.3.0">https://github.com/quantopian/zipline/tree/v1.3.0</a></td>
-<td>Zipline, a Pythonic Algorithmic Trading Library</td>
-<td>1.3.0</td>
-</tr>
-<tr>
-<td>django</td>
-<td><a href="https://github.com/django/django/tree/stable/4.0.x">https://github.com/django/django/tree/stable/4.0.x</a></td>
-<td>The Web framework for perfectionists with deadlines.</td>
-<td>4.0.x</td>
-</tr>
-<tr>
-<td>seaborn</td>
-<td><a href="https://github.com/mwaskom/seaborn/tree/v0.11.2">https://github.com/mwaskom/seaborn/tree/v0.11.2</a></td>
-<td>Statistical data visualization in Python</td>
-<td>0.11.2</td>
-</tr>
-<tr>
-<td>click</td>
-<td><a href="https://github.com/pallets/click/tree/8.0.4">https://github.com/pallets/click/tree/8.0.4</a></td>
-<td>Python composable command line interface toolkit</td>
-<td>8.0.4</td>
-</tr>
-<tr>
-<td>Sick-Beard</td>
-<td><a href="https://github.com/midgetspy/Sick-Beard/tree/build-507">https://github.com/midgetspy/Sick-Beard/tree/build-507</a></td>
-<td>PVR &amp; episode guide that downloads and manages all your TV shows</td>
-<td>build-507</td>
-</tr>
-<tr>
-<td>sanic</td>
-<td><a href="https://github.com/sanic-org/sanic/tree/v21.12.1">https://github.com/sanic-org/sanic/tree/v21.12.1</a></td>
-<td>Next generation Python web server&#x2F;framework | Build fast. Run fast.</td>
-<td>21.12.1</td>
-</tr>
-<tr>
-<td>beets</td>
-<td><a href="https://github.com/beetbox/beets/tree/v1.6.0">https://github.com/beetbox/beets/tree/v1.6.0</a></td>
-<td>music library manager and MusicBrainz tagger</td>
-<td>1.6.0</td>
-</tr>
-<tr>
-<td>yowsup</td>
-<td><a href="https://github.com/tgalal/yowsup/tree/v3.3.0">https://github.com/tgalal/yowsup/tree/v3.3.0</a></td>
-<td>The WhatsApp lib</td>
-<td>3.3.0</td>
-</tr>
-<tr>
-<td>scrapy</td>
-<td><a href="https://github.com/scrapy/scrapy/tree/2.6.1">https://github.com/scrapy/scrapy/tree/2.6.1</a></td>
-<td>Scrapy, a fast high-level web crawling &amp; scraping framework for Python.</td>
-<td>2.6.1</td>
-</tr>
-<tr>
-<td>you-get</td>
-<td><a href="https://github.com/soimort/you-get/tree/v0.4.1555">https://github.com/soimort/you-get/tree/v0.4.1555</a></td>
-<td>Dumb downloader that scrapes the web</td>
-<td>0.4.1555</td>
-</tr>
-<tr>
-<td>powerline</td>
-<td><a href="https://github.com/powerline/powerline/tree/2.8.2">https://github.com/powerline/powerline/tree/2.8.2</a></td>
-<td>Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.</td>
-<td>2.8.2</td>
-</tr>
-<tr>
-<td>kivy</td>
-<td><a href="https://github.com/kivy/kivy/tree/2.1.0">https://github.com/kivy/kivy/tree/2.1.0</a></td>
-<td>Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS</td>
-<td>2.1.0</td>
-</tr>
-<tr>
-<td>jinja</td>
-<td><a href="https://github.com/pallets/jinja/tree/3.0.3">https://github.com/pallets/jinja/tree/3.0.3</a></td>
-<td>A very fast and expressive template engine.</td>
-<td>3.0.3</td>
-</tr>
-<tr>
-<td>pandas</td>
-<td><a href="https://github.com/pandas-dev/pandas/tree/v1.5.0.dev0">https://github.com/pandas-dev/pandas/tree/v1.5.0.dev0</a></td>
-<td>Flexible and powerful data analysis &#x2F; manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more</td>
-<td>1.5.0.dev0</td>
-</tr>
-<tr>
-<td>locust</td>
-<td><a href="https://github.com/locustio/locust/tree/2.8.4">https://github.com/locustio/locust/tree/2.8.4</a></td>
-<td>Scalable user load testing tool written in Python</td>
-<td>2.8.4</td>
-</tr>
-<tr>
-<td>fastapi</td>
-<td><a href="https://github.com/tiangolo/fastapi/tree/0.75.0">https://github.com/tiangolo/fastapi/tree/0.75.0</a></td>
-<td>FastAPI framework, high performance, easy to learn, fast to code, ready for production</td>
-<td>0.75.0</td>
-</tr>
-<tr>
-<td>celery</td>
-<td><a href="https://github.com/celery/celery/tree/v5.2.3">https://github.com/celery/celery/tree/v5.2.3</a></td>
-<td>Distributed Task Queue (development branch)</td>
-<td>5.2.3</td>
-</tr>
-<tr>
-<td>redis-py</td>
-<td><a href="https://github.com/redis/redis-py/tree/v4.2.0rc2">https://github.com/redis/redis-py/tree/v4.2.0rc2</a></td>
-<td>Redis Python Client</td>
-<td>4.2.0rc2</td>
-</tr>
-<tr>
-<td>zulip</td>
-<td><a href="https://github.com/zulip/zulip/tree/5.0-rc1">https://github.com/zulip/zulip/tree/5.0-rc1</a></td>
-<td>Zulip server and web app—powerful open source team chat</td>
-<td>5.0-rc1</td>
-</tr>
-<tr>
-<td>httpie</td>
-<td><a href="https://github.com/httpie/httpie/tree/3.1.0">https://github.com/httpie/httpie/tree/3.1.0</a></td>
-<td>As easy as &#x2F;aitch-tee-tee-pie&#x2F;Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins &amp; more.</td>
-<td>3.1.0</td>
-</tr>
-<tr>
-<td>certbot</td>
-<td><a href="https://github.com/certbot/certbot/tree/v1.25.0">https://github.com/certbot/certbot/tree/v1.25.0</a></td>
-<td>Certbot is EFF’s tool to obtain certs from Let’s Encrypt and (optionally) auto-enable HTTPS on your server. It can also act as a client for any other CA that uses the ACME protocol.</td>
-<td>1.25.0</td>
-</tr>
-<tr>
-<td>tornado</td>
-<td><a href="https://github.com/tornadoweb/tornado/tree/v6.1.0">https://github.com/tornadoweb/tornado/tree/v6.1.0</a></td>
-<td>Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.</td>
-<td>6.1.0</td>
-</tr>
-<tr>
-<td>ipython</td>
-<td><a href="https://github.com/ipython/ipython/tree/8.1.1">https://github.com/ipython/ipython/tree/8.1.1</a></td>
-<td>Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.</td>
-<td>8.1.1</td>
-</tr>
-<tr>
-<td>Mailpile</td>
-<td><a href="https://github.com/mailpile/Mailpile/tree/1.0.0rc6">https://github.com/mailpile/Mailpile/tree/1.0.0rc6</a></td>
-<td>A free &amp; open modern, fast email client with user-friendly encryption and privacy features</td>
-<td>1.0.0rc6</td>
-</tr>
-<tr>
-<td>bup</td>
-<td><a href="https://github.com/bup/bup/tree/0.32">https://github.com/bup/bup/tree/0.32</a></td>
-<td>Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images). Current release is 0.31, and the development branch is master. Please post problems or patches to the mailing list for discussion (see the end of the README below).</td>
-<td>0.32</td>
-</tr>
-<tr>
-<td>matplotlib</td>
-<td><a href="https://github.com/matplotlib/matplotlib/tree/v3.5.1">https://github.com/matplotlib/matplotlib/tree/v3.5.1</a></td>
-<td>matplotlib: plotting with Python</td>
-<td>3.5.1</td>
-</tr>
-<tr>
-<td>rich</td>
-<td><a href="https://github.com/Textualize/rich/tree/v12.0.1">https://github.com/Textualize/rich/tree/v12.0.1</a></td>
-<td>Rich is a Python library for rich text and beautiful formatting in the terminal.</td>
-<td>12.0.1</td>
-</tr>
-<tr>
-<td>youtube-dl</td>
-<td><a href="https://github.com/ytdl-org/youtube-dl/tree/2021.12.17">https://github.com/ytdl-org/youtube-dl/tree/2021.12.17</a></td>
-<td>Command-line program to download videos from YouTube.com and other video sites</td>
-<td>2021.12.17</td>
-</tr>
-<tr>
-<td>thefuck</td>
-<td><a href="https://github.com/nvbn/thefuck/tree/3.32">https://github.com/nvbn/thefuck/tree/3.32</a></td>
-<td>Magnificent app which corrects your previous console command.</td>
-<td>3.32</td>
-</tr>
-<tr>
-<td>faker</td>
-<td><a href="https://github.com/joke2k/faker/tree/v13.3.2">https://github.com/joke2k/faker/tree/v13.3.2</a></td>
-<td>Faker is a Python package that generates fake data for you.</td>
-<td>13.3.2</td>
-</tr>
-<tr>
-<td>manim</td>
-<td><a href="https://github.com/3b1b/manim/tree/v1.5.0">https://github.com/3b1b/manim/tree/v1.5.0</a></td>
-<td>Animation engine for explanatory math videos</td>
-<td>1.5.0</td>
-</tr>
-</tbody></table>
-<h2 id="Part-B-Results-of-clone-analysis-for-traditional-projects"><a href="#Part-B-Results-of-clone-analysis-for-traditional-projects" class="headerlink" title="Part B : Results of clone analysis for traditional projects."></a>Part B : Results of clone analysis for traditional projects.</h2><table>
+<h2 id="Results-of-clone-analysis-for-traditional-projects"><a href="#Results-of-clone-analysis-for-traditional-projects" class="headerlink" title="Results of clone analysis for traditional projects."></a>Results of clone analysis for traditional projects.</h2><table>
 <thead>
 <tr>
 <th>Subject</th>
