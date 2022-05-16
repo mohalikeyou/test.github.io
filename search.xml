@@ -3,8 +3,7 @@
   <entry>
     <title>Guide</title>
     <url>/datasets.com/2022/05/07/Guide/</url>
-    <content><![CDATA[<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>   This website reports all the data details related to our paper : <strong>Exploring the Impact of Code Clones on Deep Learning Software</strong>.</p>
-<h2 id="Menu"><a href="#Menu" class="headerlink" title="Menu"></a>Menu</h2><table>
+    <content><![CDATA[<table>
 <thead>
 <tr>
 <th><a href="https://codeclonedl.github.io/datasets.com/Projects/">Projects</a></th>
@@ -14,7 +13,8 @@
 </tr>
 </thead>
 </table>
-<ul>
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>   This website reports all the data details related to our paper : <strong>Exploring the Impact of Code Clones on Deep Learning Software</strong>.</p>
+<h2 id="Menu"><a href="#Menu" class="headerlink" title="Menu"></a>Menu</h2><ul>
 <li><strong><a href="https://codeclonedl.github.io/datasets.com/Projects/">Projects</a></strong> : presents the information of 45 deep learning projects and 45 traditional projects, including the name, the GitHub link, the description and the base version number we used .</li>
 <li><strong><a href="https://codeclonedl.github.io/datasets.com/Research-Questions/">Research Questions</a></strong> : shows the data results related to the four research questions in our paper.</li>
 <li><strong><a href="https://github.com/CodeCloneDL/datasets.com/tree/data">Code Clone</a></strong> : shows the raw files and result files involved in the experiments of our paper. </li>
