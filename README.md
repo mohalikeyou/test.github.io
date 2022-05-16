@@ -1,4 +1,4 @@
 # Notes
-- Branch *main* is to host our [blog](https://codeclonedl.github.io/datasets.com/).
+- Branch *main* hosts our [website](https://codeclonedl.github.io/datasets.com/).
 - Code clone, See branch *data*.
 - CCDetector, See branch *CCDetector*.
