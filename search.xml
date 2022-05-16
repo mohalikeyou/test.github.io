@@ -15,7 +15,7 @@
 </thead>
 </table>
 <ul>
-<li><strong><a href="https://codeclonedl.github.io/datasets.com/Projects/">Projects</a></strong> : presents the information of 45 deep learning projects and 45 traditional projects, including the name, the GitHub link, the Description and the base version number we used .</li>
+<li><strong><a href="https://codeclonedl.github.io/datasets.com/Projects/">Projects</a></strong> : presents the information of 45 deep learning projects and 45 traditional projects, including the name, the GitHub link, the description and the base version number we used .</li>
 <li><strong><a href="https://codeclonedl.github.io/datasets.com/Research-Questions/">Research Questions</a></strong> : shows the data results related to the four research questions in our paper.</li>
 <li><strong><a href="https://github.com/CodeCloneDL/datasets.com/tree/data">Code Clone</a></strong> : shows the raw files and result files involved in the experiments of our paper. </li>
 <li><strong><a href="https://github.com/CodeCloneDL/datasets.com/tree/CCDetector">Tool</a></strong> : presents the tool CCDetector that we designed in our paper and implemented to detect co-changed clones.</li>
