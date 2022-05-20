@@ -20,7 +20,6 @@
 <li><strong><a href="https://github.com/CodeCloneDL/datasets.com/tree/data">Code Clone</a></strong> : shows the raw files and result files involved in the experiments of our paper. </li>
 <li><strong><a href="https://github.com/CodeCloneDL/datasets.com/tree/CCDetector">Tool</a></strong> : presents the tool CCDetector that we designed in our paper and implemented to detect co-changed clones.</li>
 </ul>
-<h1 id="Notes"><a href="#Notes" class="headerlink" title="Notes"></a>Notes</h1><p>Some tables are too large, so there may be overlap between table data. Please open this website on a computer instead of a mobile phone, and adjust to the appropriate browser zoom level if necessary.</p>
 ]]></content>
       <tags>
         <tag>Guide</tag>
