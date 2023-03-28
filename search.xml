@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>Guide</title>
-    <url>/datasets.com/2022/05/07/Guide/</url>
+    <url>/test.github.io/2022/05/07/Guide/</url>
     <content><![CDATA[<table>
 <thead>
 <tr>
@@ -27,7 +27,7 @@
   </entry>
   <entry>
     <title>Research Question 4</title>
-    <url>/datasets.com/2022/05/07/RQ4/</url>
+    <url>/test.github.io/2022/05/07/RQ4/</url>
     <content><![CDATA[<h1 id="RQ4-In-terms-of-the-impact-of-code-clones-what-is-the-difference-between-projects-using-different-frameworks"><a href="#RQ4-In-terms-of-the-impact-of-code-clones-what-is-the-difference-between-projects-using-different-frameworks" class="headerlink" title="RQ4 : In terms of the impact of code clones,what is the difference between projects using different frameworks?"></a>RQ4 : In terms of the impact of code clones,what is the difference between projects using different frameworks?</h1><h2 id="Glossary"><a href="#Glossary" class="headerlink" title="Glossary"></a>Glossary</h2><ul>
 <li>Group1 : contains projects that only utilize Pytorch framework to support deep learning;</li>
 <li>Group2 : contains projects that only utilize Tensorflow framework to support deep learning;</li>
@@ -645,7 +645,7 @@
   </entry>
   <entry>
     <title>Research Question 3</title>
-    <url>/datasets.com/2022/05/07/RQ3/</url>
+    <url>/test.github.io/2022/05/07/RQ3/</url>
     <content><![CDATA[<h1 id="RQ3-Whether-and-to-what-extent-have-the-code-clones-in-deep-learning-projects-caused-co-changes"><a href="#RQ3-Whether-and-to-what-extent-have-the-code-clones-in-deep-learning-projects-caused-co-changes" class="headerlink" title="RQ3 : Whether and to what extent have the code clones in deep learning projects caused co-changes?"></a>RQ3 : Whether and to what extent have the code clones in deep learning projects caused co-changes?</h1><h2 id="Glossary"><a href="#Glossary" class="headerlink" title="Glossary"></a>Glossary</h2><ul>
 <li>POC : Percentage of the clones.</li>
 <li>PCC : Percentage of co-changed clones.</li>
@@ -1314,7 +1314,7 @@
 <td align="center">758</td>
 </tr>
 </tbody></table>
-<h4 id="Distribution-of-the-number-of-each-co-modified-clone-type-in-every-project"><a href="#Distribution-of-the-number-of-each-co-modified-clone-type-in-every-project" class="headerlink" title="Distribution  of the number of each co-modified clone type in every project"></a>Distribution  of the number of each co-modified clone type in every project</h4><p><img src="/datasets.com/image/RQ3-1.png" alt="RQ3-1"></p>
+<h4 id="Distribution-of-the-number-of-each-co-modified-clone-type-in-every-project"><a href="#Distribution-of-the-number-of-each-co-modified-clone-type-in-every-project" class="headerlink" title="Distribution  of the number of each co-modified clone type in every project"></a>Distribution  of the number of each co-modified clone type in every project</h4><p><img src="/test.github.io/image/RQ3-1.png" alt="RQ3-1"></p>
 <h4 id="Distribution-of-the-number-of-each-clone-type"><a href="#Distribution-of-the-number-of-each-clone-type" class="headerlink" title="Distribution of the number of each clone type."></a>Distribution of the number of each clone type.</h4><table>
 <thead>
 <tr>
@@ -1364,7 +1364,7 @@
 <td align="center">1254</td>
 </tr>
 </tbody></table>
-<h4 id="Distribution-of-the-number-of-each-clone-type-in-every-project"><a href="#Distribution-of-the-number-of-each-clone-type-in-every-project" class="headerlink" title="Distribution of the number of each clone type in every project."></a>Distribution of the number of each clone type in every project.</h4><p><img src="/datasets.com/image/RQ3-2.png" alt="RQ3-2"></p>
+<h4 id="Distribution-of-the-number-of-each-clone-type-in-every-project"><a href="#Distribution-of-the-number-of-each-clone-type-in-every-project" class="headerlink" title="Distribution of the number of each clone type in every project."></a>Distribution of the number of each clone type in every project.</h4><p><img src="/test.github.io/image/RQ3-2.png" alt="RQ3-2"></p>
 <h3 id="Association-between-LC-and-NormPCTC"><a href="#Association-between-LC-and-NormPCTC" class="headerlink" title="Association between LC and NormPCTC."></a>Association between LC and NormPCTC.</h3><h4 id="Overview-2"><a href="#Overview-2" class="headerlink" title="Overview"></a>Overview</h4><table>
 <thead>
 <tr>
@@ -1436,7 +1436,7 @@
 <td align="center">23054</td>
 </tr>
 </tbody></table>
-<h4 id="Distribution-of-the-gross-LOC-of-each-co-changed-clone-type-in-every-group-and-project"><a href="#Distribution-of-the-gross-LOC-of-each-co-changed-clone-type-in-every-group-and-project" class="headerlink" title="Distribution of the gross LOC  of each co-changed clone type in every group and project"></a>Distribution of the gross LOC  of each co-changed clone type in every group and project</h4><p><img src="/datasets.com/image/RQ3-3.png" alt="RQ3-3"></p>
+<h4 id="Distribution-of-the-gross-LOC-of-each-co-changed-clone-type-in-every-group-and-project"><a href="#Distribution-of-the-gross-LOC-of-each-co-changed-clone-type-in-every-group-and-project" class="headerlink" title="Distribution of the gross LOC  of each co-changed clone type in every group and project"></a>Distribution of the gross LOC  of each co-changed clone type in every group and project</h4><p><img src="/test.github.io/image/RQ3-3.png" alt="RQ3-3"></p>
 <h4 id="Distribution-of-the-gross-LOC-of-each-clone-type-in-every-group"><a href="#Distribution-of-the-gross-LOC-of-each-clone-type-in-every-group" class="headerlink" title="Distribution of the gross LOC  of each clone type in every group."></a>Distribution of the gross LOC  of each clone type in every group.</h4><table>
 <thead>
 <tr>
@@ -1486,7 +1486,7 @@
 <td align="center">46770</td>
 </tr>
 </tbody></table>
-<h4 id="Distribution-of-the-gross-LOC-of-each-clone-type-in-every-group-and-project"><a href="#Distribution-of-the-gross-LOC-of-each-clone-type-in-every-group-and-project" class="headerlink" title="Distribution of the gross LOC  of each clone type in every group and project."></a>Distribution of the gross LOC  of each clone type in every group and project.</h4><p><img src="/datasets.com/image/RQ3-4.png" alt="RQ3-4"></p>
+<h4 id="Distribution-of-the-gross-LOC-of-each-clone-type-in-every-group-and-project"><a href="#Distribution-of-the-gross-LOC-of-each-clone-type-in-every-group-and-project" class="headerlink" title="Distribution of the gross LOC  of each clone type in every group and project."></a>Distribution of the gross LOC  of each clone type in every group and project.</h4><p><img src="/test.github.io/image/RQ3-4.png" alt="RQ3-4"></p>
 ]]></content>
       <tags>
         <tag>RQ3</tag>
@@ -1494,7 +1494,7 @@
   </entry>
   <entry>
     <title>Research Question 2</title>
-    <url>/datasets.com/2022/05/07/RQ2/</url>
+    <url>/test.github.io/2022/05/07/RQ2/</url>
     <content><![CDATA[<h1 id="RO2-Whether-and-to-what-extent-have-the-code-clones-in-deep-learning-projects-caused-co-changes"><a href="#RO2-Whether-and-to-what-extent-have-the-code-clones-in-deep-learning-projects-caused-co-changes" class="headerlink" title="RO2:Whether and to what extent have the code clones in deep learning projects caused co-changes?"></a>RO2:Whether and to what extent have the code clones in deep learning projects caused co-changes?</h1><h2 id="Glossary"><a href="#Glossary" class="headerlink" title="Glossary"></a>Glossary</h2><ul>
 <li>Subject : the name for each project;</li>
 <li>All : the number of all clones in each project;</li>
@@ -1503,7 +1503,7 @@
 <li>NCC1, NCC1, NCC3 : the number of co-changed code clones in different types;</li>
 <li>PCC1, PCC2, PCC3 : the percentage of the number of co-changed code clones to all clones;</li>
 </ul>
-<h2 id="Co-changed-clones-of-deep-learning-projects"><a href="#Co-changed-clones-of-deep-learning-projects" class="headerlink" title="Co-changed clones of deep learning projects"></a>Co-changed clones of deep learning projects</h2><p><img src="/datasets.com/image/RQ2-1.png" alt="RQ2-1"></p>
+<h2 id="Co-changed-clones-of-deep-learning-projects"><a href="#Co-changed-clones-of-deep-learning-projects" class="headerlink" title="Co-changed clones of deep learning projects"></a>Co-changed clones of deep learning projects</h2><p><img src="/test.github.io/image/RQ2-1.png" alt="RQ2-1"></p>
 ]]></content>
       <tags>
         <tag>RQ2</tag>
@@ -1511,7 +1511,7 @@
   </entry>
   <entry>
     <title>Research Question 1</title>
-    <url>/datasets.com/2022/05/07/RQ1/</url>
+    <url>/test.github.io/2022/05/07/RQ1/</url>
     <content><![CDATA[<h1 id="RQ1-Whether-and-to-what-extent-do-code-clones-happen-in-deep-learning-projects"><a href="#RQ1-Whether-and-to-what-extent-do-code-clones-happen-in-deep-learning-projects" class="headerlink" title="RQ1 : Whether and to what extent do code clones happen in deep learning projects?"></a>RQ1 : Whether and to what extent do code clones happen in deep learning projects?</h1><h2 id="Glossary"><a href="#Glossary" class="headerlink" title="Glossary"></a>Glossary</h2><ul>
 <li>Subject : the name of each project;</li>
 <li>Star : the number of stars;</li>
@@ -1523,8 +1523,8 @@
 <li>Type1, Type2, Type3 : the number of clone pairs for each type of clones;</li>
 <li>CLoc1, CLoc2, CLoc3 : the LOC for each type of clones;</li>
 </ul>
-<h2 id="Rusults-of-clone-analysis-for-deep-learning-projects"><a href="#Rusults-of-clone-analysis-for-deep-learning-projects" class="headerlink" title="Rusults of clone analysis for deep learning projects"></a>Rusults of clone analysis for deep learning projects</h2><p><img src="/datasets.com/image/RQ1-1.png" alt="RQ1-1"></p>
-<h2 id="Results-of-clone-analysis-for-traditional-projects"><a href="#Results-of-clone-analysis-for-traditional-projects" class="headerlink" title="Results of clone analysis for traditional projects."></a>Results of clone analysis for traditional projects.</h2><p><img src="/datasets.com/image/RQ1-2.png" alt="RQ1-2"></p>
+<h2 id="Rusults-of-clone-analysis-for-deep-learning-projects"><a href="#Rusults-of-clone-analysis-for-deep-learning-projects" class="headerlink" title="Rusults of clone analysis for deep learning projects"></a>Rusults of clone analysis for deep learning projects</h2><p><img src="/test.github.io/image/RQ1-1.png" alt="RQ1-1"></p>
+<h2 id="Results-of-clone-analysis-for-traditional-projects"><a href="#Results-of-clone-analysis-for-traditional-projects" class="headerlink" title="Results of clone analysis for traditional projects."></a>Results of clone analysis for traditional projects.</h2><p><img src="/test.github.io/image/RQ1-2.png" alt="RQ1-2"></p>
 ]]></content>
       <tags>
         <tag>RQ1</tag>
@@ -1532,7 +1532,7 @@
   </entry>
   <entry>
     <title>Tool---CCDetector</title>
-    <url>/datasets.com/2022/05/07/Tool-CCDetector/</url>
+    <url>/test.github.io/2022/05/07/Tool-CCDetector/</url>
     <content><![CDATA[<p>See <a href="https://github.com/CodeCloneDL/datasets.com/tree/CCDetector">CCDetector</a>.</p>
 ]]></content>
       <tags>
@@ -1541,7 +1541,7 @@
   </entry>
   <entry>
     <title>Code clone</title>
-    <url>/datasets.com/2022/05/07/Source-Files/</url>
+    <url>/test.github.io/2022/05/07/Source-Files/</url>
     <content><![CDATA[<p>See <a href="https://github.com/CodeCloneDL/datasets.com/tree/data">Code clone</a>.</p>
 ]]></content>
       <tags>
