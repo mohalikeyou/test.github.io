@@ -26,6 +26,90 @@
       </tags>
   </entry>
   <entry>
+    <title>Research Question 5</title>
+    <url>/test.github.io/2023/03/28/RQ5/</url>
+    <content><![CDATA[<h1 id="RQ5-How-do-co-changed-clones-distribute-in-deep-learning-projects"><a href="#RQ5-How-do-co-changed-clones-distribute-in-deep-learning-projects" class="headerlink" title="RQ5:How do co-changed clones distribute in deep learning projects?"></a>RQ5:How do co-changed clones distribute in deep learning projects?</h1><h2 id="Glossary"><a href="#Glossary" class="headerlink" title="Glossary"></a>Glossary</h2><ul>
+<li><p>SameFile, means a pair of clones located in the same file.</p>
+</li>
+<li><p>SameFolder, means a pair of clones located in the same folder but in different files.In this case,we leverage the innermost folder.</p>
+</li>
+<li><p>DiferentFolder, means a pair of clones spread over different folders.</p>
+</li>
+</ul>
+<h2 id="Location-taxonomy-the-number-of-co-changed-clones"><a href="#Location-taxonomy-the-number-of-co-changed-clones" class="headerlink" title="Location taxonomy: the number of co-changed clones"></a>Location taxonomy: the number of co-changed clones</h2><table>
+<thead>
+<tr>
+<th></th>
+<th align="center">SameFile</th>
+<th align="center">SameFolder</th>
+<th align="center">DifferentFolder</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Type1</td>
+<td align="center">10</td>
+<td align="center">22</td>
+<td align="center">167</td>
+</tr>
+<tr>
+<td>Type2</td>
+<td align="center">113</td>
+<td align="center">108</td>
+<td align="center">75</td>
+</tr>
+<tr>
+<td>Type3</td>
+<td align="center">942</td>
+<td align="center">971</td>
+<td align="center">705</td>
+</tr>
+<tr>
+<td>All</td>
+<td align="center">1065</td>
+<td align="center">1101</td>
+<td align="center">947</td>
+</tr>
+</tbody></table>
+<h2 id="Location-taxonomy-LOC-of-co-changed-clones"><a href="#Location-taxonomy-LOC-of-co-changed-clones" class="headerlink" title="Location taxonomy:LOC of co-changed clones"></a>Location taxonomy:LOC of co-changed clones</h2><table>
+<thead>
+<tr>
+<th></th>
+<th align="center">SameFile</th>
+<th align="center">SameFolder</th>
+<th align="center">DifferentFolder</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Type1</td>
+<td align="center">199</td>
+<td align="center">525</td>
+<td align="center">4655</td>
+</tr>
+<tr>
+<td>Type2</td>
+<td align="center">2588</td>
+<td align="center">1439</td>
+<td align="center">1125</td>
+</tr>
+<tr>
+<td>Type3</td>
+<td align="center">26641</td>
+<td align="center">17088</td>
+<td align="center">16299</td>
+</tr>
+<tr>
+<td>All</td>
+<td align="center">29428</td>
+<td align="center">19052</td>
+<td align="center">22079</td>
+</tr>
+</tbody></table>
+]]></content>
+      <tags>
+        <tag>RQ5</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Research Question 4</title>
     <url>/test.github.io/2022/05/07/RQ4/</url>
     <content><![CDATA[<h1 id="RQ4-In-terms-of-the-impact-of-code-clones-what-is-the-difference-between-projects-using-different-frameworks"><a href="#RQ4-In-terms-of-the-impact-of-code-clones-what-is-the-difference-between-projects-using-different-frameworks" class="headerlink" title="RQ4 : In terms of the impact of code clones,what is the difference between projects using different frameworks?"></a>RQ4 : In terms of the impact of code clones,what is the difference between projects using different frameworks?</h1><h2 id="Glossary"><a href="#Glossary" class="headerlink" title="Glossary"></a>Glossary</h2><ul>
